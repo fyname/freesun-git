@@ -1,0 +1,4 @@
+spring:
+  git:
+    rep: D:/opt/dao
+    mode: 0
